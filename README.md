@@ -5,8 +5,6 @@ A comprehensive data analysis and visualization project exploring global populat
 ## 📌 Project Overview
 Understanding demographic shifts is crucial for socioeconomic planning, policy-making, and resource allocation. This project processes global demographic records to visualize distribution patterns, contrast population scales between high-growth and low-growth nations, and break down gender ratios across various geographical regions.
 
-![Global Population Distributions and Male/Female Demographics](./TASK-01.png)
-
 ## 🚀 Key Features
 * **Global Scale Comparison:** Compares the top 10 most populous countries against the bottom 10 to highlight demographic disparities.
 * **Gender Breakdown:** Analyzes male versus female ratios utilizing stacked bar charts for structural insights.
@@ -31,10 +29,9 @@ Understanding demographic shifts is crucial for socioeconomic planning, policy-m
 
 ## 📂 Project Structure
 ```text
-├── Task_01.ipynb           # Exploratory Data Analysis & Visualization Notebook
-├── worldpopulationdata.csv # World Bank population dataset
-├── TASK-01.png            # Saved demographic visualization plot
-└── README.md               # Project documentation
+├── Task_01.ipynb                                   # Exploratory Data Analysis & Visualization Notebook
+├── worldpopulationdata.csv                         # World Bank population dataset
+└── README.md                                       # Project documentation
 ```
 
 ## 👤 Author
